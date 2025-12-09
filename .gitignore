@@ -1,0 +1,18 @@
+
+# Project Files
+__pycache__/
+*.pyc
+*.egg-info
+.DS_Store
+
+# Virtual Environment
+venv/
+env/
+
+# Uploads and Outputs
+uploads/
+outputs/
+*.log
+
+# Pydroid/Termux specific
+.termux/

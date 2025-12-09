@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+python-multipart
+# Add real P&ID processing libraries here:
+# PyMuPDF
+# opencv-python
+# numpy
+# networkx
